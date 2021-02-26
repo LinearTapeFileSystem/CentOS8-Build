@@ -6,7 +6,7 @@ This action builds the LTFS package on CentOS8
 
 ### `destination`
 
-**Required** Destination of install。 Default is `/tmp/ltfs`。
+**Required** Destination of install. Default is `/tmp/ltfs`.
 
 ## Outputs
 
@@ -15,7 +15,7 @@ None
 ## Usage
 
 ```
-uses: LinearTapeFileSystem/CentOS8-Build@v1.0
+uses: LinearTapeFileSystem/CentOS8-Build@v1.1
 with:
   destination: '/tmp/ltfs'
 ```
