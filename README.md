@@ -15,7 +15,7 @@ None
 ## Usage
 
 ```
-uses: LinearTapeFileSystem/CentOS8-Build@v1.1
+uses: LinearTapeFileSystem/CentOS8-Build@v1.2
 with:
   destination: '/tmp/ltfs'
 ```
